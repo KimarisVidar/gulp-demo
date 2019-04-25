@@ -1,0 +1,10 @@
+$color: blue;
+
+body{
+    color: $color;
+}
+header{
+    width: 100%;
+    transform: rotate(180deg);
+    filter: blur(3px);
+}
